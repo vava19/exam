@@ -1,2 +1,0 @@
-# exam
-POS Prüfung
